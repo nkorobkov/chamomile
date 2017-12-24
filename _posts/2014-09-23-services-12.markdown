@@ -6,3 +6,4 @@ category: Services
 title: BIGELOW Cozy Chamomile
 description: |
 ---
+This is second version of BIGELOW Cozy Chamomile I have. It has little different design in comparison with [the bag](#post_2) I already have.

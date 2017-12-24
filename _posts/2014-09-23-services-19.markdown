@@ -7,4 +7,4 @@ category: Services
 description: |
 ---
 
-Weirdly packed tea. This sachet contains four teabags without strings.
+Weirdly packed one. This sachet contains four teabags without strings.

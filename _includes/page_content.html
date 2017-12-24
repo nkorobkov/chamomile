@@ -3,6 +3,7 @@
 {% assign sorted = (site.posts | sort: 'id') | reversed %}
 {% for post in sorted %}
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+    <a name="post_{{post.index}}"></a>
     {% if thecycle == 'odd' %}
     <div class="content-section-a">
 
