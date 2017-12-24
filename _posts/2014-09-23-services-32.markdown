@@ -1,0 +1,10 @@
+---
+layout: default
+index: 32
+country: Finland
+title: Clipper Chamomile
+category: Services
+description: |
+---
+
+I bet this tea is very popular in UK, but I had luck to find it in Finland.

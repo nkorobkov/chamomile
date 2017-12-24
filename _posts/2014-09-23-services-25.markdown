@@ -1,0 +1,13 @@
+---
+layout: default
+index: 25
+country: Mexico
+title: McComnic
+category: Services
+description:
+---
+
+Подарок от великолепной Маши Глявиной из далекой Мексики. Невероятно приятно.
+А открытка оттуда же так и не дошла.
+
+

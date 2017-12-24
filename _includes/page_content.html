@@ -1,0 +1,55 @@
+<section id="collection">
+<!-- Page Content -->
+{% assign sorted = (site.posts | sort: 'id') | reversed %}
+{% for post in sorted %}
+  {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+    {% if thecycle == 'odd' %}
+    <div class="content-section-a">
+
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-5 col-sm-6">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">{{post .index}}: {{ post.title }}</h2>
+                    <h4><i>Country: {{ post.country }}</i></h4>
+                    <div class="lead">{{ post.content }}</div>
+                </div>
+                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+                    <img class="img-responsive img-bag" src="img/bags/bag-{{ post.index }}.jpeg" alt="">
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.content-section-a -->
+    {% else %}
+
+    <div class="content-section-b">
+
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">{{post .index}}: {{ post.title }}</h2>
+                    <h4><i>Country: {{ post.country }}</i></h4>
+                    <div class="lead">{{ post.content }}</div>
+                </div>
+                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
+                  <img class="img-responsive img-bag" src="img/bags/bag-{{ post.index }}.jpeg" alt="">
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.content-section-b -->
+    {% endif %}
+{% endfor %}
+</section>
