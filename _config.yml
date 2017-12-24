@@ -22,14 +22,14 @@ permalink: pretty
 #   3rd Party Settings    #
 # ----------------------- #
 
-#
+
 social:
   - title: telegram
     icon: telegram
     url: https://t.me/insolia
   - title: email
-      icon: envelope
-      url: mailto:nikkorobk@gmail.com
+    icon: envelope
+    url: mailto:nikkorobk@gmail.com
   - title: github
     icon: github
     url: https://github.com/nkorobkov/chamomile
