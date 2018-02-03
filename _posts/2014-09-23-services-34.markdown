@@ -1,0 +1,10 @@
+---
+layout: default
+index: 34
+country: Estonia
+title: Lipton Relaks
+category: Services
+description: |
+---
+
+Only valid tea I found in Tallin. I also bought very nice authentic pack of chamomile tea with word "rumianek" on it. (Chamomile on Polish) but unfortunately it contained only teabags without sachets. 
