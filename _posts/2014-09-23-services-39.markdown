@@ -1,0 +1,10 @@
+---
+layout: default
+index: 39
+country: USA
+title: Lipton Stress Less
+category: Services
+description: |
+---
+
+This is just fancier version of [bag #34](#post_34) from USA. 
