@@ -1,0 +1,10 @@
+---
+layout: default
+index: 45
+country: Germany
+title: Eilles tea Kamillenblüten
+category: Services
+description: |
+---
+
+Another one from that conference. Second pyramid in my collection.
