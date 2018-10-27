@@ -7,5 +7,4 @@ category: Services
 description: |
 ---
 
-My friend Masha brought this tea bag to me from scientific conference she went to in Tarragona.
-
+My friend Masha brought this tea bag to me from scientific conference in Tarragona.
