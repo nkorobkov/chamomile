@@ -7,4 +7,3 @@ category: Services
 description: |
 ---
 
-Another one from that conference. Second pyramid in my collection.
