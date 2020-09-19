@@ -1,0 +1,9 @@
+---
+layout: default
+index: 64
+country: USA, NY
+title: Rituals Chamomile Herbal Tea
+category: Services
+description: |
+---
+From hotel in Syracuse.
