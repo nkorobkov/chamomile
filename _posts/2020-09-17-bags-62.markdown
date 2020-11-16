@@ -1,4 +1,4 @@
- ---
+---
 layout: default
 index: 62
 country: USA, MA
@@ -8,4 +8,4 @@ description: |
 ---
 What ?!
 
-Japanise store in Brookline MA. 
+Japanise store in Brookline MA.
