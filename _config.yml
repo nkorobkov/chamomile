@@ -7,7 +7,7 @@ title: Chamomile Tea Collection
 email: nikkorobk@gmail.com
 author: Nikita Korobkov
 description: Chamomile tea bags collection with photos.
-copyright: 'Copyright &copy; 2019 <a  href="https://nkorobkov.github.io">Nikita Korobkov.</a>'
+copyright: 'Copyright &copy; 2021 <a  href="https://nkorobkov.github.io">Nikita Korobkov.</a>'
 credits: ''
 
 # ----------------------- #
@@ -22,7 +22,6 @@ permalink: pretty
 #   3rd Party Settings    #
 # ----------------------- #
 
-
 social:
   - title: telegram
     icon: telegram
@@ -33,9 +32,7 @@ social:
   - title: github
     icon: github
     url: https://github.com/nkorobkov/chamomile
-
-
 #  - title: twitter
 #    url: https://twitter.com/SBootstrap
 #  - title: linkedin
-#    url: 
+#    url:
