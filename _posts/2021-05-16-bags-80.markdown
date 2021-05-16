@@ -1,0 +1,9 @@
+---
+layout: default
+index: 75
+country: USA, MA
+title: Traditional Medicinals Ginger with Chamomile
+category: Services
+description: |
+---
+And another variation of [bag #37](#post_37), this time with ginger
