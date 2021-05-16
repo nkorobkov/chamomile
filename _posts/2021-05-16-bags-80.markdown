@@ -1,6 +1,6 @@
 ---
 layout: default
-index: 75
+index: 80
 country: USA, MA
 title: Traditional Medicinals Ginger with Chamomile
 category: Services

@@ -2,7 +2,7 @@
 layout: default
 index: 77
 country: Puerto Rico
-title: Mighty Leaf
+title: Mighty Leaf Chamomile Citrus
 category: Services
 description: |
 ---
