@@ -1,0 +1,9 @@
+---
+layout: default
+index: 91
+country: Spain
+title: Белтея с Ромашкой
+category: Services
+description: |
+---
+The bag was aquired from an exchange with Manuel from Spain, but the bag itself is originaly from Belarus and even have some Belarus national ornaments on it. 

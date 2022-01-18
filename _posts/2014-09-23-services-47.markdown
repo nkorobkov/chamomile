@@ -2,7 +2,7 @@
 layout: default
 index: 47
 country: USA
-title: USDA Organic Chamomile
+title: Lifestyle Awareness Organic Chamomile
 category: Services
 description: |
 ---

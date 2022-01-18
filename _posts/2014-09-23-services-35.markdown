@@ -2,7 +2,7 @@
 layout: default
 index: 35
 country: USA
-title: USDA Organic Relaxing Chamomile
+title: Allegro Tea Relaxing Chamomile
 category: Services
 description: |
 ---
