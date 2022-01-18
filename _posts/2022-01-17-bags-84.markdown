@@ -6,4 +6,4 @@ title: Harney & Sons Egyptian Chamomile
 category: Services
 description: |
 ---
-Someone brought this one to our camping trip in New Hampshire
+Someone brought this one to our camping trip in New Hampshire.
